@@ -1,3 +1,7 @@
+## 5.1.1
+
+- use local `audio_streamer` package
+
 ## 5.1.0
 
 - upgrading gradle version
