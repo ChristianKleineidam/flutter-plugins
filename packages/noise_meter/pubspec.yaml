@@ -1,6 +1,6 @@
 name: noise_meter
 description: A Flutter plugin for collecting noise from the phone's microphone.
-version: 5.1.1
+version: 5.1.2
 homepage: https://github.com/cph-cachet/flutter-plugins/tree/master/packages/noise_meter
 
 environment:
@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  audio_streamer: ^4.0.0
+  audio_streamer:
+    path: ../audio_streamer
 
 dev_dependencies:
   flutter_test:

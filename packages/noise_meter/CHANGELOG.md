@@ -1,3 +1,7 @@
+## 5.1.2
+
+- use local `audio_streamer` package
+
 ## 5.1.1
 
 - update Android example to Java and Kotlin 21
