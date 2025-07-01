@@ -1,3 +1,7 @@
+## 5.1.1
+
+- update Android example to Java and Kotlin 21
+
 ## 5.1.0
 
 - upgrading gradle version
